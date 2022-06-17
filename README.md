@@ -1,4 +1,4 @@
-### Hi there, I'm Zoya! 👋
+### Hi there 👋
 
 <!--
 
