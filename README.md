@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Zoia, an aspiring software developer from New York City.
+I'm Zoia, a software developer from New York City.
 <!--
 
 Here are some ideas to get you started:
